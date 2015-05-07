@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 2.5//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/1.6/template-install.dtd">
+<extension version="3.3.6" type="template">
+	<name>Tag1</name>
+	<creationDate>17/11/2014</creationDate>
+	<author>Benoit-Xavier Broze</author>
+	<authorEmail>info@tag-webdesign.be</authorEmail>
+	<authorUrl>http://www.tag-webdesign.be</authorUrl>
+	<copyright>TaG WebDesign 2005-2014  © Tous droits réservés</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<version>1.0.0</version>
+	<description>Template de base TaG webdesign</description>
+
+	<files>
+		<folder>css</folder>
+		<folder>images</folder>
+		<filename>index.html</filename>
+		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
+		<filename>favicon.ico</filename>
+	</files>
+
+	<positions>
+			<position>breadcrumb</position>
+			<position>left</position>
+			<position>right</position>
+			<position>top</position>
+			<position>menu-h</position>
+			<position>menu-v</position>
+			<position>user1</position>
+			<position>user2</position>
+			<position>user3</position>
+			<position>user4</position>
+			<position>footer</position>
+	</positions>
+</extension>
